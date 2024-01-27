@@ -1,7 +1,8 @@
-package com.example.exam_isaf.Controller;
+package com.example.exam_isaf.controller;
 
-import com.example.exam_isaf.Service.EmployeeService;
 import com.example.exam_isaf.entity.Employee;
+import com.example.exam_isaf.service.EmployeeService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

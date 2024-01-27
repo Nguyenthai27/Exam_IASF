@@ -1,7 +1,8 @@
-package com.example.exam_isaf.Service;
+package com.example.exam_isaf.service;
 
-import com.example.exam_isaf.Repository.EmployeeRepository;
 import com.example.exam_isaf.entity.Employee;
+import com.example.exam_isaf.repository.EmployeeRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
